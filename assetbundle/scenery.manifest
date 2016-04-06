@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1382092981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a1589fb39f5dfd3169413778b7ca948
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18f88a6a41a39d45481574f548d1d50a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/pirate6.dae
+- Assets/candy1.dae
+- Assets/pirate2.dae
+- Assets/candy3.dae
+- Assets/candy2.dae
+- Assets/candy6.dae
+- Assets/pirate5.dae
+- Assets/candy5.dae
+- Assets/pirate3.dae
+- Assets/candy7.dae
+- Assets/pirate1.dae
+- Assets/pirate7.dae
+- Assets/candy8.dae
+- Assets/pirate4.dae
+- Assets/candy4.dae
+Dependencies: []

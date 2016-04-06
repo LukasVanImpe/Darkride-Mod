@@ -1,0 +1,121 @@
+﻿{
+    "CandyCan": {
+		"category": "Props/Candy",
+		"model": "candy1",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Candy": {
+		        "category": "Props/Candy",
+		"model": "candy2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Lollypop": {
+		"category": "Props/Candy",
+		"model": "candy3",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Truffle": {
+		"category": "Props/Candy",
+		"model": "candy5",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Oreo": {
+		        "category": "Props/Candy",
+		"model": "candy6",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Chocolate": {
+		"category": "Props/Candy",
+		"model": "candy7",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Cake": {
+		        "category": "Props/Candy",
+		"model": "candy8",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Anchor": {
+		"category": "Props/Small",
+		"model": "pirate1",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Kanon": {
+		        "category": "Props/Small",
+		"model": "pirate2",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "FlowerBarrel": {
+		"category": "Props/Small",
+		"model": "pirate3",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "TreasureChest": {
+		"category": "Props/Small",
+		"model": "pirate4",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "OldLadder": {
+		"category": "Props/Small",
+		"model": "pirate5",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "OldCrate": {
+		"category": "Props/Small",
+		"model": "pirate6",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Group": {
+		        "category": "Props/Small",
+		"model": "pirate7",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}
+     "Lollypop1": {
+		"category": "Props/Candy",
+		"model": "candy4",
+		"type": "deco",
+		"price": 20.5,
+		"gridSubdivision": 2.0,
+		"snapCenter": false
+	}}
